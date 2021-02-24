@@ -1,0 +1,15 @@
+{
+  "name": "pentacom/docker",
+  "description": "This is a base Docker setup for Pentacom Laravel projects",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Perlusz Dávid",
+      "email": "perlusz.davd@pentacom.hu"
+    }
+  ],
+  "require": {
+    "laravel/installer": "^4.1"
+  }
+}
